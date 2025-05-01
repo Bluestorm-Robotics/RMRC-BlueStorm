@@ -9,8 +9,8 @@ Organization: Mercersburg Academy
 
 Country: USA 
 
-Contact person: Marcus Jaiclin 
+Contact person: Marcus Jaiclin (Outdated)
 
-Email: jaiclinm@mercersburg.edu  
+Email: jaiclinm@mercersburg.edu (No longer in use)
 
 [NEXT](Directory)
